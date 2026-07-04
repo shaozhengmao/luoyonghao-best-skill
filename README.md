@@ -64,15 +64,6 @@
 luoyonghao-best-skill/
 ├── SKILL.md                    # 主 Skill 文件（v2.0）
 ├── README.md                   # 本文件
-└── references/
-    ├── research/
-    │   ├── 01-context.md       # 处境与成型
-    │   ├── 02-beliefs.md       # 信念体系
-    │   ├── 03-drives.md        # 驱动需求
-    │   ├── 04-decisions.md     # 决策模式
-    │   └── 05-expression.md    # 表达 DNA 调研
-    └── sources/
-        └── articles/           # 一手素材存档（当前为空，见信源声明）
 ```
 
 ## 版本历史
